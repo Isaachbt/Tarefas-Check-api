@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Tarefas Check</string>
+    <string name="alta_prioridade_btn_escolha">Alta prioridade</string>
+    <string name="prioridade_media_btn_escolha">Prioridade media</string>
 </resources>

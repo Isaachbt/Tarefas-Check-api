@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="btnAdd">#1F501D</color>
+    <color name="edit_text">#EDEDED</color>
 </resources>
